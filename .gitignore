@@ -17,6 +17,7 @@ out
 build
 .gradle
 config.yml
+lib
 
 # node.js / yarn
 node_modules
