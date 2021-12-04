@@ -1,2 +1,4 @@
-# Let's Make A Minigame - but now in Java
-Based on [Vonox's tutorial series](//github.com/damianmakkink/Lets-Make-A-Minigame-Skripts)
+# MahtGames
+Simple API for minigames, with Skript integration
+---
+Based on [GameAPI](//github.com/Olyno/Gamet)
