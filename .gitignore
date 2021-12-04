@@ -1,0 +1,31 @@
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+build
+.gradle
+config.yml
+lib
+
+# node.js / yarn
+node_modules
+package-lock.json
+yarn.lock
+.parcel-cache
+dist
+
+# other
+eclipse
+run

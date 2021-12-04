@@ -1,0 +1,10 @@
+This file is part of MahtGames.
+
+MahtGames is free software: you can redistribute it and/or modify it
+under the terms (or lack thereof) of the CC0 Public Domain license as
+published by Creative Commons. See the license for specific information.
+
+You should have received a copy of the CC0 License along with this program.
+If not, see <https://creativecommons.org/share-your-work/public-domain/cc0/>.
+
+Dedicated to the Public Domain by Mahtaran / Luka Leer

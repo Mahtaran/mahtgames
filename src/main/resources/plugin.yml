@@ -1,0 +1,7 @@
+name: "MahtGames"
+version: "${version}"
+main: com.amuzil.mahtaran.mahtgames.MahtGamesPlugin
+api-version: 1.17
+authors: [ Mahtaran ]
+softdepend:
+  - Skript
